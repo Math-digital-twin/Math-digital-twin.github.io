@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Math-digital-twin.github.io/sitemap.xml
+Sitemap: https://Math-digital-twin.github.io/Math-digital-twin.github.io//sitemap.xml
