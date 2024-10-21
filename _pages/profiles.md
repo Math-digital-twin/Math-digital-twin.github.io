@@ -18,7 +18,7 @@ profiles:
     content: about_park.md
     image_circular: false # crops the image to make it circular
   - align: left
-    image: jie xu.jpg
+    image: Jie Xu.jpg
     content: about_jiexu.md
     image_circular: false # crops the image to make it circular
   - align: left
