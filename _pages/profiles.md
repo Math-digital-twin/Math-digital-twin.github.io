@@ -29,7 +29,7 @@ profiles:
     image: jiehao.jpg
     content: about_jiehao.md
     image_circular: false # crops the image to make it circular
-    - align: left
+  - align: left
     image: chuanhuipeng.jpeg
     content: about_chuanhuipeng.md
     image_circular: false # crops the image to make it circular
