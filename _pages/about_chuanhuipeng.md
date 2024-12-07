@@ -1,4 +1,4 @@
- Chuanhui Peng\\
+ [Chuanhui Peng](https://statistics.columbian.gwu.edu/chuanhui-peng)\\
             Ph.D. Students\
             Department of Statistics\\
             George Washington University\\
