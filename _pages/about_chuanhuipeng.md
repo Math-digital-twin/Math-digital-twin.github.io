@@ -1,4 +1,4 @@
- [Chuanhui Peng](https://statistics.columbian.gwu.edu/huixia-wang)\\
+ Chuanhui Peng\\
             Ph.D. Students\
             Department of Statistics\\
             George Washington University\\
