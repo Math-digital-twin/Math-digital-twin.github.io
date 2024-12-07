@@ -25,10 +25,13 @@ profiles:
     image: mingrui liu.jpg
     content: about_mingruiliu.md
     image_circular: false # crops the image to make it circular
-
   - align: left
     image: jiehao.jpg
     content: about_jiehao.md
+    image_circular: false # crops the image to make it circular
+    - align: left
+    image: chuanhuipeng.jpeg
+    content: about_chuanhuipeng.md
     image_circular: false # crops the image to make it circular
 
 ---
