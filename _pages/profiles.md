@@ -33,5 +33,9 @@ profiles:
     image: chuanhuipeng.jpeg
     content: about_chuanhuipeng.md
     image_circular: false # crops the image to make it circular
+  - align: left
+    image: zannate.jpeg
+    content: about_zannate.md
+    image_circular: false # crops the image to make it circular
 
 ---
