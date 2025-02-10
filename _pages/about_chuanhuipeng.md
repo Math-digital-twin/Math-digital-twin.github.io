@@ -1,5 +1,5 @@
  [Chuanhui Peng](https://statistics.columbian.gwu.edu/chuanhui-peng)\\
-            Ph.D. Students\
+            Ph.D. Student\
             Department of Statistics\\
             George Washington University\\
             Rome Hall 755, 801 22nd St NW\\
